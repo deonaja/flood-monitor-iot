@@ -1,0 +1,33 @@
+# ============================
+# 1. FILE RAHASIA / CREDENTIAL
+# ============================
+# Header yang berisi WiFi + Telegram asli
+flood.monitor.h
+
+# Contoh header aman (BOLEH di-push)
+# flood.monitor.h.example
+
+
+# ============================
+# 2. EDITOR / IDE SETTINGS
+# ============================
+# VS Code settings (opsional)
+.vscode/
+
+# JetBrains (kalau suatu saat pakai)
+.idea/
+
+
+# ============================
+# 3. FILE SEMENTARA / OS
+# ============================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs sementara
+*.log
+*.tmp
